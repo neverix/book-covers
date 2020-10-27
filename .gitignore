@@ -1,0 +1,10 @@
+dataset/
+out/
+*.csv
+*.txt
+venv/
+*.h5
+fonts/
+images
+**/__pycache__/
+.idea/
